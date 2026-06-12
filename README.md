@@ -1,4 +1,4 @@
-# Hi there, I'm [NAMA_LU] 👋
+# Hi there, I'm QwertyXSec👋
 ### ⚡ Full-Stack Developer | Creative Technologist | Problem Solver
 
 <p align="center">
